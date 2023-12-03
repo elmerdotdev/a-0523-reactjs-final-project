@@ -15,7 +15,7 @@ Create a data-driven responsive website using NextJS App Router.
 
 2. Create your own personal design for the site. Do not use existing designs or templates
 3. The website should be built using NextJS App Router
-4. Use Primsa to create the models and database. Keep the database locally.
+4. Use Primsa to create the models and database. Keep the database local
 5. The website should be responsive
 
 ## Features
