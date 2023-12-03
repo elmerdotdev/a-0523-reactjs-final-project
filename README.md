@@ -25,7 +25,13 @@ Create a data-driven responsive website using NextJS App Router.
 - The website should have at least **two** models for the schema. For example, for E-commerce website, you should have a model for *Product* and *User*
 - User is able to upload images to the site. Instead of storing the image as a `Blob` type, please use **Cloudinary API** or any other image hosting website to store the actual image files and just add the image URLs as a `String` into your database.
 - Implement modals using Parallel + Intercepting Routes. For example, for E-commerce website, clicking on a product in the product list page will open a modal but visiting the actual URL will open the *Product Details* page
-- Your website should have at least 5 routes
+- Your website should have at least 5 routes. For example:
+
+  - Home page
+  - Products
+  - View Product
+  - My Account page
+  - Contact page
 
 ## Tools
 
