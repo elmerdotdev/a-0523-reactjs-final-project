@@ -28,7 +28,7 @@ Create a data-driven responsive website using NextJS App Router.
 - Your website should have at least 5 routes. For example:
 
   - Home page
-  - Products
+  - Products List
   - View Product
   - My Account page
   - Contact page
