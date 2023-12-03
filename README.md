@@ -11,6 +11,7 @@ Create a data-driven responsive website using NextJS App Router.
    - Blog website (Posts)
    - E-Commerce website (Products - No need to implement checkout or payment)
    - Gallery website (Images showcase)
+   - Social media website (Posts)
 
 2. Create your own personal design for the site. Do not use existing designs or templates
 3. The website should be built using NextJS App Router
@@ -23,7 +24,7 @@ Create a data-driven responsive website using NextJS App Router.
 - The website should have CRUD functionality (Create, Retrieve, Update, Delete)
 - The website should have at least **two** models for the schema. For example, for E-commerce website, you should have a model for *Product* and *User*
 - User is able to upload images to the site. Instead of storing the image as a `Blob` type, please use **Cloudinary API** or any other image hosting website to store the actual image files and just add the image URLs as a `String` into your database.
-- Implement modals using Parallel + Intercepting Routes. For example, for E-commerce website, clicking on a product in the product list page will open a modal but visiting the actual URL will open *Product Details* page
+- Implement modals using Parallel + Intercepting Routes. For example, for E-commerce website, clicking on a product in the product list page will open a modal but visiting the actual URL will open the *Product Details* page
 - Your website should have at least 5 routes
 
 ## Tools
